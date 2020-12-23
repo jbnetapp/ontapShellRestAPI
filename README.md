@@ -2,6 +2,8 @@
 ontapsh is a Python script that emulate an ONTAP shell using the most common used commands.
 The aim of this script is to used ONTAP REST API from a single shell. The [documentation](https://10.65.176.31/docs/api/) is available in cot-3-demofr.
 
+**WARNING** Never used this script on production system the aim is only for LAB and Demo
+
 The script need to be used with **python 3**
 
 The folowing python modules must be installed (windows):
