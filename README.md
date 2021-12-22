@@ -6,7 +6,7 @@ The aim of this script is to used ONTAP REST API from a single shell. The [docum
 
 The script needs to be used with **python 3**
 
-The folowing python modules must be installed (windows):
+The following  python modules must be installed (windows):
 ```
 pip install ssl
 pip install json
@@ -14,7 +14,7 @@ pip install OpenSSL
 pip insatll urllib3
 pip install requests
 ```
-The folowing python modules must be installed (Linux):
+The following  python modules must be installed (Linux):
 ```
 python3 -m pip install pyopenssl
 python3 -m pip insatll urllib3
